@@ -1,16 +1,13 @@
-### Hi there 👋
+### Greetings! 👋
 
-<!--
-**Le-Sourcier/Le-Sourcier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, home to **Le-Sourcier/Le-Sourcier**, a repository with special significance.
 
-Here are some ideas to get you started:
+Let me provide you with an overview of my ongoing endeavors:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently, I am deeply engaged in an exciting project.
+- 👀 My interests span across Artificial Intelligence, cutting-edge software projects, and Physics.
+- 👯 I am actively seeking collaborations on compelling projects 😶‍🌫️.
+- 📫 For communication, please reach out to me at yaodavidlogan02@gmail.com.
+- 📚 Fun fact: I am an avid learner of new things and a proficient reader ❤️.
+
+Feel free to peruse the details of my latest activities during my active hours 😊.
