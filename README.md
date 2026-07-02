@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:1E2A4A,100:2E7CF6&height=220&section=header&text=Yao%20David%20LOGAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%C2%B7%20Full-Stack%20%26%20Mobile%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Yao David LOGAN" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:1E2A4A,100:2E7CF6&height=210&section=header&text=Yao%20David%20LOGAN&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=Founder%20and%20Full-Stack%20and%20Mobile%20Engineer&descSize=17&descAlignY=62&reversal=false&animation=fadeIn" width="100%" alt="Yao David LOGAN" />
 
 <a href="https://lesourcier.space">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2E7CF6&center=true&vCenter=true&width=680&lines=Founder.+Engineer.+Builder.;I+design+and+ship+production+systems.;Payments%2C+auth%2C+data+pipelines%2C+mobile.;TypeScript+across+the+whole+stack." alt="Typing tagline" />
@@ -76,30 +76,32 @@ Software engineer and founder at **DevBox**, working across the US, Togo, and th
 
 ---
 
-## GitHub in numbers
+## Language focus
+
+<table>
+  <tr><td><b>TypeScript</b></td><td><img src="https://progress-bar.xyz/64/?width=340&color=2E7CF6&suffix=%25" alt="64%" /></td></tr>
+  <tr><td><b>JavaScript</b></td><td><img src="https://progress-bar.xyz/21/?width=340&color=F7DF1E&suffix=%25" alt="21%" /></td></tr>
+  <tr><td><b>Dart</b></td><td><img src="https://progress-bar.xyz/07/?width=340&color=00B4AB&suffix=%25" alt="7%" /></td></tr>
+  <tr><td><b>Other</b></td><td><img src="https://progress-bar.xyz/08/?width=340&color=A0AEC0&suffix=%25" alt="8%" /></td></tr>
+</table>
+
+<sub>Distribution across public repositories (C++, PHP, Vue grouped under Other).</sub>
+
+---
+
+## Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Le-Sourcier&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2E7CF6&icon_color=2E7CF6&text_color=A0AEC0&bg_color=0B0F1A" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Sourcier&layout=compact&hide_border=true&langs_count=8&title_color=2E7CF6&text_color=A0AEC0&bg_color=0B0F1A" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=Le-Sourcier&hide_border=true&background=0B0F1A&stroke=2E7CF6&ring=2E7CF6&fire=2E7CF6&currStreakLabel=2E7CF6&sideLabels=A0AEC0&dates=718096&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak" />
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Le-Sourcier&bg_color=0B0F1A&color=2E7CF6&line=2E7CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Le-Sourcier&hide_border=true&background=0B0F1A&stroke=2E7CF6&ring=2E7CF6&fire=2E7CF6&currStreakLabel=2E7CF6&sideLabels=A0AEC0&dates=718096&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Le-Sourcier&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Le-Sourcier&bg_color=0B0F1A&color=2E7CF6&line=2E7CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
-
-<br/>
 
 <strong>Let's build something worth shipping.</strong>
 <br/>
